@@ -5,7 +5,7 @@
 
 Easy to create cool walkthrough page.
 
-Inspired by ![BWWalkthrough](https://github.com/ariok/BWWalkthrough).
+Inspired by [BWWalkthrough](https://github.com/ariok/BWWalkthrough).
 
 ### Usage
 
