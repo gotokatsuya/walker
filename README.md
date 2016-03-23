@@ -9,6 +9,8 @@ Inspired by [BWWalkthrough](https://github.com/ariok/BWWalkthrough).
 
 ### Usage
 
+#### Page
+
 ```java
 public class PageFragment extends WalkerFragment {
 
