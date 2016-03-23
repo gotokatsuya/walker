@@ -43,7 +43,7 @@ public class PageFragment extends WalkerFragment {
         walkerLayout.setSpeed(new PointF(1.0f, 0.0f));
         walkerLayout.setSpeedVariance(new PointF(1.2f, 0.0f));
 
-        // Enable Alpha
+        // Enable alpha
         walkerLayout.setEnableAlphaAnimation(true);
 
         // Basic animate (Linear, Curve, Zoom, InOut)
@@ -68,10 +68,10 @@ public class PageFragment extends WalkerFragment {
             }
         });
 
-        // tag list that view does not animate.
+        // Tag list that view does not animate.
         walkerLayout.setIgnoredViewTags(Arrays.asList("1", "2"));
 
-        // setup layout (MUST call
+        // Setup layout (MUST call
         walkerLayout.setup();
     }
 
