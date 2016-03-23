@@ -1,6 +1,9 @@
-walker
+# walker
 
 ![](https://github.com/gotokatsuya/walker/blob/master/walker.gif)
+
+
+Easy to create cool walkthrough page.
 
 
 ### Usage
