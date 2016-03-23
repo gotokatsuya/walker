@@ -25,10 +25,10 @@ dependencies {
 }
 
 publish {
-    userOrg = 'goka'
+    userOrg = 'gotokatsuya'
     groupId = 'com.goka'
     artifactId = 'walker'
     publishVersion = "1.0.0"
-    desc = 'Create walkthrough that is able to super animate.'
+    desc = 'Cool walkthrough has super animation.'
     website = 'https://github.com/gotokatsuya/walker'
 }
